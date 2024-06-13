@@ -1,0 +1,10 @@
+/home/venkat/venkat/rust/get_request_bin/target/debug/deps/libminiz_oxide-c407e310ca44363c.rmeta: /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/lib.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/core.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/output_buffer.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/stream.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/shared.rs
+
+/home/venkat/venkat/rust/get_request_bin/target/debug/deps/miniz_oxide-c407e310ca44363c.d: /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/lib.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/core.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/output_buffer.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/stream.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/shared.rs
+
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/lib.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/mod.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/core.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/output_buffer.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/inflate/stream.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.3/src/shared.rs:

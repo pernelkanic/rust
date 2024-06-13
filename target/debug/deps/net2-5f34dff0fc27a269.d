@@ -1,0 +1,13 @@
+/home/venkat/venkat/rust/get_request_bin/target/debug/deps/libnet2-5f34dff0fc27a269.rmeta: /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/home/venkat/venkat/rust/get_request_bin/target/debug/deps/net2-5f34dff0fc27a269.d: /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs:
