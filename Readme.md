@@ -1,6 +1,6 @@
 # Learning Rust
 
-** This is supposed to be my implementation of a http request using rust **
+**This is supposed to be my implementation of a http request using rust**
 
 ---
 
