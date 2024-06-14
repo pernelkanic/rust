@@ -1,0 +1,15 @@
+/home/venkat/venkat/rust/parse_links/target/debug/deps/libmarkup5ever-c2318efd99ef2e6a.rmeta: /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs /home/venkat/venkat/rust/parse_links/target/debug/build/markup5ever-febc89029b1f9f8c/out/generated.rs /home/venkat/venkat/rust/parse_links/target/debug/build/markup5ever-febc89029b1f9f8c/out/named_entities.rs
+
+/home/venkat/venkat/rust/parse_links/target/debug/deps/markup5ever-c2318efd99ef2e6a.d: /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs /home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs /home/venkat/venkat/rust/parse_links/target/debug/build/markup5ever-febc89029b1f9f8c/out/generated.rs /home/venkat/venkat/rust/parse_links/target/debug/build/markup5ever-febc89029b1f9f8c/out/named_entities.rs
+
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs:
+/home/venkat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs:
+/home/venkat/venkat/rust/parse_links/target/debug/build/markup5ever-febc89029b1f9f8c/out/generated.rs:
+/home/venkat/venkat/rust/parse_links/target/debug/build/markup5ever-febc89029b1f9f8c/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/home/venkat/venkat/rust/parse_links/target/debug/build/markup5ever-febc89029b1f9f8c/out
